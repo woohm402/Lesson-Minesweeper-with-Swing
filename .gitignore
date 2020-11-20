@@ -31,3 +31,8 @@ Temporary Items
 .apdisk
 
 # End of https://www.toptal.com/developers/gitignore/api/macos
+
+# Custom
+out/
+.idea/
+.Lesson-Minesweeper-with-Swing.imi
